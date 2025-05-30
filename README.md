@@ -1,11 +1,12 @@
-# LC-Two-Sum
-LEETCODE - Two Sum 
+# LC - Two Sum 
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+## 🧠 Problem Statement
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+Given an array of integers `nums` and an integer `target`, return the indices of the **two numbers** such that they **add up to target**.
 
-You can return the answer in any order.
+- Each input is guaranteed to have **exactly one solution**.
+- You may not use the same element twice.
+- You can return the answer in **any order**.
 
 Example 1:
 ```
@@ -32,3 +33,13 @@ Constraints:
 -109 <= target <= 109
 ```
 Only one valid answer exists.
+
+### 📘 Requirements
+Python 3.x
+
+typing module (standard from Python 3.5+)
+
+to run the code: `python3 ./solution.py`
+
+### 📄 License
+This code is based on the Two Sum problem from LeetCode and is for learning purposes only.
